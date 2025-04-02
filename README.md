@@ -1,6 +1,6 @@
 ## Hi there 👋
+아주 축약된 정보로 작성
 
-<!--
 **uk2ya/uk2ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
