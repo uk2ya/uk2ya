@@ -1,9 +1,5 @@
 <h1 align="center">Java 기반 웹 백엔드 개발자, 이 동욱 입니다.</h1>
 
-<p align="center">
-  Java 기반 웹 백엔드 개발자 • Spring Boot • 실전 프로젝트 중심 성장형 인재
-</p>
-
 ---
 
 ## 💻 About Me
