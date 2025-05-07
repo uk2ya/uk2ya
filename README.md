@@ -18,14 +18,6 @@
 
 ## 🛠 주요 프로젝트
 
-### 🔹 아나바다 1 (중고명품 경매 플랫폼)
-- 세션 기반 인증 / 비밀번호 PBKDF2 해시화
-- 이메일 인증 (SMTP) / 유효성 검증 처리 / View 기반 DB 설계
-
-🔗 [Repo 바로가기](https://github.com/000vin000/anabada)
-
----
-
 ### 🔹 아나바다 2 (브랜드 확장 경매 플랫폼)
 - JWT + RefreshToken + HttpOnly 쿠키 기반 인증
 - Google OAuth2 소셜 로그인 / PIN 기반 2차 인증
@@ -36,6 +28,23 @@
 
 ---
 
+### 🔹 아나바다 1 (중고명품 경매 플랫폼)
+- 세션 기반 인증 / 비밀번호 PBKDF2 해시화
+- 이메일 인증 (SMTP) / 유효성 검증 처리 / View 기반 DB 설계
+
+🔗 [Repo 바로가기](https://github.com/000vin000/anabada)
+
+---
+
+### 🔹 휴먼클라우드 (이력 관리 기반 구인·구직 플랫폼)
+- 사용자 권한 기반 기능 분리 (기업/개인 로그인 및 기능 차등 적용)
+- 공고 CRUD, 조건 기반 필터링, 지원자 상태 관리 등 전반 기능 구현
+- 세션 기반 인증/인가 및 공통 유효성 검증 로직 처리
+- 반응형 UI 및 기업 메인페이지 기능 구조 설계
+
+🔗 [Repo 바로가기](https://github.com/RI4RU/greenart-HumanCloud)
+
+---
 ## 📫 Contact
 
 - Email: **ben896@nate.com**  
